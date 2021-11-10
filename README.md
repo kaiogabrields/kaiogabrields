@@ -15,5 +15,7 @@
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
+
 <br/>
-Sou um desenvolvedor front end, tenho 18 anos e atualmente resido em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Estou a procura da minha primeira oportunidade como programador, por isso tenho me preocupado em aprender da melhor forma, a fim de poder agregar e trazer soluções.
+
+Sou um desenvolvedor front-end, tenho 18 anos e atualmente resido em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Estou a procura da minha primeira oportunidade como programador, por isso tenho me preocupado em aprender da melhor forma, a fim de poder agregar e trazer soluções.
