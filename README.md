@@ -13,9 +13,17 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 <br/>
 
-Sou um desenvolvedor front-end, tenho 18 anos e atualmente resido em São Paulo. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Estou a procura da minha primeira oportunidade como programador, por isso tenho me preocupado em aprender da melhor forma, a fim de poder agregar e trazer soluções.
+Sou um entusiasta do mundo da tecnologia. Atualmente aluno da Anhembi
+Morumbi, cursando Análise e Desenvolvimento de Sistemas. Sou uma pessoa
+que adora testes e qualidade de software, tenho estudado bastante sobre
+técnicas de teste e estratégias de qualidade, metodologias ágeis com foco em
+Scrum Kanban e automação web utilizando a linguagem Java e JavaScript. Tenho me
+preocupado em aprender da melhor forma afim de ser um analista de
+qualidade com base técnica e senso crítico nos projetos em que eu possa
+trabalhar.
+
