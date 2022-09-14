@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Kaio Gabriel 👋
 
+##Sou um entusiasta do mundo da tecnologia. Atualmente aluno da Anhembi
+Morumbi, cursando Análise e Desenvolvimento de Sistemas. Sou uma pessoa
+que adora qualidade de software e programação :)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-gabriel-698319215/)
 
 ![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogabrields&show_icons=true&theme=dracula)
@@ -18,7 +22,4 @@
 
 <br/>
 
-Sou um entusiasta do mundo da tecnologia. Atualmente aluno da Anhembi
-Morumbi, cursando Análise e Desenvolvimento de Sistemas. Sou uma pessoa
-que adora qualidade de software e programação :)
 
