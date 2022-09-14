@@ -20,10 +20,5 @@
 
 Sou um entusiasta do mundo da tecnologia. Atualmente aluno da Anhembi
 Morumbi, cursando Análise e Desenvolvimento de Sistemas. Sou uma pessoa
-que adora testes e qualidade de software, tenho estudado bastante sobre
-técnicas de teste e estratégias de qualidade, metodologias ágeis com foco em
-Scrum Kanban e automação web utilizando a linguagem Java e JavaScript. Tenho me
-preocupado em aprender da melhor forma afim de ser um analista de
-qualidade com base técnica e senso crítico nos projetos em que eu possa
-trabalhar.
+que adora qualidade de software e programação :)
 
